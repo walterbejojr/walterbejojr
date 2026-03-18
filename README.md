@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Walter Bejo Jr.</h1>
-<h3 align="center">An aspiring prof</h3>
+<h3 align="center">currently working as an IT staff in ContactPoint360 Philippines</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 `I’m currently working on **my portfolio**`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
